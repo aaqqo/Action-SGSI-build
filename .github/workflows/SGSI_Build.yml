@@ -6,7 +6,7 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://hugeota.d.miui.com/21.5.31/miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'https%3A%2F%2Fdownload.meizu.com%2FFirmware%2FFlyme%2Fmeizu18X%2F9.2.3.2%2Fcn%2F20211202045911%2F25302566%2Fupdate.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
